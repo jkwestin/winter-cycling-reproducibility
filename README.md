@@ -1,6 +1,6 @@
 # Winter Cycling Reproducibility
 
-Synthetic data, code, and documented workflows reproducing Tables 2 and 3 from the paper *Who Cycles in Winter? Seasonal Cycling and Mode Share Change in Northern Sweden*.
+Synthetic data, code, and documented workflows reproducing Tables 2 and 3 from the manuscript *Who Cycles in Winter? Seasonal Cycling and Mode Share Change in Northern Sweden*.
 
 ## Contents
 
@@ -75,13 +75,15 @@ The original trip level records cannot be shared because they contain sensitive 
 
 The synthetic dataset preserves the variables and structure required to run the code but does not represent real individuals or trips.
 
-## Paper
+## Manuscript
 
-Jonas Westin and Per Åhag. *Who Cycles in Winter? Seasonal Cycling and Mode Share Change in Northern Sweden.*
+Jonas Westin and Per Åhag. *Who Cycles in Winter? Seasonal Cycling and Mode Share Change in Northern Sweden.* Unpublished manuscript.
+
+The manuscript citation and repository documentation will be updated if the paper is published.
 
 ## Citation
 
-When using this repository, please cite both the paper and the archived release of the repository.
+When using these materials, please cite the archived release of this repository. The unpublished manuscript may also be cited where appropriate. A complete publication reference will be added if the paper is published.
 
 ## License
 
